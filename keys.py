@@ -1,0 +1,1 @@
+SECRET_FLASK_KEY = "ihaveasecret"
